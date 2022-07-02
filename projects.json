@@ -1,9 +1,10 @@
 [
   {
     "id": 1,
-    "title": "Perfumes Store",
-    "description": "Perfume Store A promising Figma Plugin that converts a group of icons with inconsistent sizes and colors into a group of consistent icon components",
-    "projectUrl": "https://facebook.com",
+    "title": "Perfumes Store (Redux)",
+    "description": "This project has been created while practicing react core concept and implementing and know about coding experience. I mentioned everything how i developed this web application and what stacks i used for done this ecommerce project.",
+    "projectImage": "https://i.ibb.co/6b65R17/Perfumes-Store.png",
+    "projectUrl": "https://wirehouse-ee68f.web.app",
     "tags": ["Ecommerce", "SPA"],
     "singleProjectList": [
       "React (Javascript frontend Library)",
@@ -16,13 +17,14 @@
       "React Helmet Async (it's used for showing the page title in website)"
     ],
     "gitHubLinkFrontend": "https://github.com/ashikurrahmans/perfumes-app-react",
-    "gitHubLinkBackend": "https://github.com/ashikurrahmans/perfumes-app-react"
+    "gitHubLinkBackend": "https://github.com/ashikurrahmans/perfumes-serverside-code"
   },
   {
     "id": 2,
-    "title": "Perfumes Store",
+    "title": "Electro Arts Store (Redux)",
     "description": "Perfume Store A promising Figma Plugin that converts a group of icons with inconsistent sizes and colors into a group of consistent icon components",
-    "projectUrl": "https://facebook.com",
+    "projectImage": "https://i.ibb.co/k9my1M2/electroarts.png",
+    "projectUrl": "https://elector-arts.web.app/",
     "tags": ["Ecommerce", "SPA"],
     "singleProjectList": [
       "React (Javascript frontend Library)",
@@ -34,14 +36,15 @@
       "Dotenv (Its a library to hide potential credentials from public)",
       "React Helmet Async (it's used for showing the page title in website)"
     ],
-    "gitHubLinkFrontend": "https://github.com/ashikurrahmans/perfumes-app-react",
-    "gitHubLinkBackend": "https://github.com/ashikurrahmans/perfumes-app-react"
+    "gitHubLinkFrontend": "https://github.com/ashikurrahmans/electro-arts-frontend",
+    "gitHubLinkBackend": "https://github.com/ashikurrahmans/electro-arts-backend"
   },
   {
     "id": 3,
-    "title": "Perfumes Store",
+    "title": "Elite Dental Studio USA",
+    "projectImage": "https://i.ibb.co/VgcRqpL/elite-Dentalstudio.png",
     "description": "Perfume Store A promising Figma Plugin that converts a group of icons with inconsistent sizes and colors into a group of consistent icon components",
-    "projectUrl": "https://facebook.com",
+    "projectUrl": "https://elite-a1384.web.app/",
     "tags": ["Ecommerce", "SPA"],
     "singleProjectList": [
       "React (Javascript frontend Library)",
@@ -53,14 +56,16 @@
       "Dotenv (Its a library to hide potential credentials from public)",
       "React Helmet Async (it's used for showing the page title in website)"
     ],
-    "gitHubLinkFrontend": "https://github.com/ashikurrahmans/perfumes-app-react",
-    "gitHubLinkBackend": "https://github.com/ashikurrahmans/perfumes-app-react"
+    "gitHubLinkFrontend": "https://github.com/ashikurrahmans/elite-dental-studio",
+    "gitHubLinkBackend": ""
   },
+
   {
     "id": 4,
-    "title": "Perfumes Store",
-    "description": "Perfume Store A promising Figma Plugin that converts a group of icons with inconsistent sizes and colors into a group of consistent icon components",
-    "projectUrl": "https://facebook.com",
+    "title": "Dentisto (Redux)",
+    "projectImage": "https://i.ibb.co/kXb8tRb/dentisto.png",
+    "description": "Dentisto Store A promising Figma Plugin that converts a group of icons with inconsistent sizes and colors into a group of consistent icon components",
+    "projectUrl": "https://dentisto.netlify.app/",
     "tags": ["Ecommerce", "SPA"],
     "singleProjectList": [
       "React (Javascript frontend Library)",
@@ -72,14 +77,14 @@
       "Dotenv (Its a library to hide potential credentials from public)",
       "React Helmet Async (it's used for showing the page title in website)"
     ],
-    "gitHubLinkFrontend": "https://github.com/ashikurrahmans/perfumes-app-react",
-    "gitHubLinkBackend": "https://github.com/ashikurrahmans/perfumes-app-react"
+    "gitHubLinkFrontend": "https://github.com/ashikurrahmans/dentisto-frontend-redux",
+    "gitHubLinkBackend": ""
   },
   {
     "id": 5,
-    "title": "Perfumes Store",
+    "title": "Convention Center",
     "description": "Perfume Store A promising Figma Plugin that converts a group of icons with inconsistent sizes and colors into a group of consistent icon components",
-    "projectUrl": "https://facebook.com",
+    "projectUrl": "https://conventions.netlify.app",
     "tags": ["Ecommerce", "SPA"],
     "singleProjectList": [
       "React (Javascript frontend Library)",
