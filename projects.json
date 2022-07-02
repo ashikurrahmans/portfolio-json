@@ -5,13 +5,16 @@
     "description": "Perfume Store A promising Figma Plugin that converts a group of icons with inconsistent sizes and colors into a group of consistent icon components",
     "projectUrl": "https://facebook.com",
     "tags": ["Ecommerce", "SPA"],
-    "singleProjectList":["React (Javascript frontend Library)","Tailwind CSS (utility first css framwork for making the design)
-","React Router (it's a javascript library routing one page to another without reloading the page.)
-","Firebase (for implementing login & logout features on my website)
-","Firebase react router hook (it's a library for make easier for authendication)","React Toastify (React Library for showing notification)
-","Dotenv (Its a library to hide potential credentials from public)
-","React Helmet Async (it's used for showing the page title in website)
-"]
+    "singleProjectList": [
+      "React (Javascript frontend Library)",
+      "Tailwind CSS (utility first css framwork for making the design)",
+      "React Router (its a javascript library routing one page to another without reloading the page.)",
+      "Firebase (for implementing login & logout features on my website)",
+      "Firebase react router hook (it's a library for make easier for authendication)",
+      "React Toastify (React Library for showing notification)",
+      "Dotenv (Its a library to hide potential credentials from public)",
+      "React Helmet Async (it's used for showing the page title in website)"
+    ]
   },
   {
     "id": 2,
@@ -19,13 +22,16 @@
     "description": "Perfume Store A promising Figma Plugin that converts a group of icons with inconsistent sizes and colors into a group of consistent icon components",
     "projectUrl": "https://facebook.com",
     "tags": ["Ecommerce", "SPA"],
-        "singleProjectList":["React (Javascript frontend Library)","Tailwind CSS (utility first css framwork for making the design)
-","React Router (it's a javascript library routing one page to another without reloading the page.)
-","Firebase (for implementing login & logout features on my website)
-","Firebase react router hook (it's a library for make easier for authendication)","React Toastify (React Library for showing notification)
-","Dotenv (Its a library to hide potential credentials from public)
-","React Helmet Async (it's used for showing the page title in website)
-"]
+    "singleProjectList": [
+      "React (Javascript frontend Library)",
+      "Tailwind CSS (utility first css framwork for making the design)",
+      "React Router (its a javascript library routing one page to another without reloading the page.)",
+      "Firebase (for implementing login & logout features on my website)",
+      "Firebase react router hook (it's a library for make easier for authendication)",
+      "React Toastify (React Library for showing notification)",
+      "Dotenv (Its a library to hide potential credentials from public)",
+      "React Helmet Async (it's used for showing the page title in website)"
+    ]
   },
   {
     "id": 3,
@@ -33,13 +39,16 @@
     "description": "Perfume Store A promising Figma Plugin that converts a group of icons with inconsistent sizes and colors into a group of consistent icon components",
     "projectUrl": "https://facebook.com",
     "tags": ["Ecommerce", "SPA"],
-        "singleProjectList":["React (Javascript frontend Library)","Tailwind CSS (utility first css framwork for making the design)
-","React Router (it's a javascript library routing one page to another without reloading the page.)
-","Firebase (for implementing login & logout features on my website)
-","Firebase react router hook (it's a library for make easier for authendication)","React Toastify (React Library for showing notification)
-","Dotenv (Its a library to hide potential credentials from public)
-","React Helmet Async (it's used for showing the page title in website)
-"]
+    "singleProjectList": [
+      "React (Javascript frontend Library)",
+      "Tailwind CSS (utility first css framwork for making the design)",
+      "React Router (its a javascript library routing one page to another without reloading the page.)",
+      "Firebase (for implementing login & logout features on my website)",
+      "Firebase react router hook (it's a library for make easier for authendication)",
+      "React Toastify (React Library for showing notification)",
+      "Dotenv (Its a library to hide potential credentials from public)",
+      "React Helmet Async (it's used for showing the page title in website)"
+    ]
   },
   {
     "id": 4,
@@ -47,13 +56,16 @@
     "description": "Perfume Store A promising Figma Plugin that converts a group of icons with inconsistent sizes and colors into a group of consistent icon components",
     "projectUrl": "https://facebook.com",
     "tags": ["Ecommerce", "SPA"],
-        "singleProjectList":["React (Javascript frontend Library)","Tailwind CSS (utility first css framwork for making the design)
-","React Router (it's a javascript library routing one page to another without reloading the page.)
-","Firebase (for implementing login & logout features on my website)
-","Firebase react router hook (it's a library for make easier for authendication)","React Toastify (React Library for showing notification)
-","Dotenv (Its a library to hide potential credentials from public)
-","React Helmet Async (it's used for showing the page title in website)
-"]
+    "singleProjectList": [
+      "React (Javascript frontend Library)",
+      "Tailwind CSS (utility first css framwork for making the design)",
+      "React Router (its a javascript library routing one page to another without reloading the page.)",
+      "Firebase (for implementing login & logout features on my website)",
+      "Firebase react router hook (it's a library for make easier for authendication)",
+      "React Toastify (React Library for showing notification)",
+      "Dotenv (Its a library to hide potential credentials from public)",
+      "React Helmet Async (it's used for showing the page title in website)"
+    ]
   },
   {
     "id": 5,
@@ -61,13 +73,16 @@
     "description": "Perfume Store A promising Figma Plugin that converts a group of icons with inconsistent sizes and colors into a group of consistent icon components",
     "projectUrl": "https://facebook.com",
     "tags": ["Ecommerce", "SPA"],
-        "singleProjectList":["React (Javascript frontend Library)","Tailwind CSS (utility first css framwork for making the design)
-","React Router (it's a javascript library routing one page to another without reloading the page.)
-","Firebase (for implementing login & logout features on my website)
-","Firebase react router hook (it's a library for make easier for authendication)","React Toastify (React Library for showing notification)
-","Dotenv (Its a library to hide potential credentials from public)
-","React Helmet Async (it's used for showing the page title in website)
-"]
+    "singleProjectList": [
+      "React (Javascript frontend Library)",
+      "Tailwind CSS (utility first css framwork for making the design)",
+      "React Router (its a javascript library routing one page to another without reloading the page.)",
+      "Firebase (for implementing login & logout features on my website)",
+      "Firebase react router hook (it's a library for make easier for authendication)",
+      "React Toastify (React Library for showing notification)",
+      "Dotenv (Its a library to hide potential credentials from public)",
+      "React Helmet Async (it's used for showing the page title in website)"
+    ]
   },
   {
     "id": 6,
@@ -75,12 +90,15 @@
     "description": "Perfume Store A promising Figma Plugin that converts a group of icons with inconsistent sizes and colors into a group of consistent icon components",
     "projectUrl": "https://facebook.com",
     "tags": ["Ecommerce", "SPA"],
-        "singleProjectList":["React (Javascript frontend Library)","Tailwind CSS (utility first css framwork for making the design)
-","React Router (it's a javascript library routing one page to another without reloading the page.)
-","Firebase (for implementing login & logout features on my website)
-","Firebase react router hook (it's a library for make easier for authendication)","React Toastify (React Library for showing notification)
-","Dotenv (Its a library to hide potential credentials from public)
-","React Helmet Async (it's used for showing the page title in website)
-"]
+    "singleProjectList": [
+      "React (Javascript frontend Library)",
+      "Tailwind CSS (utility first css framwork for making the design)",
+      "React Router (its a javascript library routing one page to another without reloading the page.)",
+      "Firebase (for implementing login & logout features on my website)",
+      "Firebase react router hook (it's a library for make easier for authendication)",
+      "React Toastify (React Library for showing notification)",
+      "Dotenv (Its a library to hide potential credentials from public)",
+      "React Helmet Async (it's used for showing the page title in website)"
+    ]
   }
 ]
