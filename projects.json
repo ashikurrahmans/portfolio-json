@@ -14,7 +14,9 @@
       "React Toastify (React Library for showing notification)",
       "Dotenv (Its a library to hide potential credentials from public)",
       "React Helmet Async (it's used for showing the page title in website)"
-    ]
+    ],
+    "gitHubLinkFrontend": "https://github.com/ashikurrahmans/perfumes-app-react",
+    "gitHubLinkBackend": "https://github.com/ashikurrahmans/perfumes-app-react"
   },
   {
     "id": 2,
@@ -31,7 +33,9 @@
       "React Toastify (React Library for showing notification)",
       "Dotenv (Its a library to hide potential credentials from public)",
       "React Helmet Async (it's used for showing the page title in website)"
-    ]
+    ],
+    "gitHubLinkFrontend": "https://github.com/ashikurrahmans/perfumes-app-react",
+    "gitHubLinkBackend": "https://github.com/ashikurrahmans/perfumes-app-react"
   },
   {
     "id": 3,
@@ -48,7 +52,9 @@
       "React Toastify (React Library for showing notification)",
       "Dotenv (Its a library to hide potential credentials from public)",
       "React Helmet Async (it's used for showing the page title in website)"
-    ]
+    ],
+    "gitHubLinkFrontend": "https://github.com/ashikurrahmans/perfumes-app-react",
+    "gitHubLinkBackend": "https://github.com/ashikurrahmans/perfumes-app-react"
   },
   {
     "id": 4,
@@ -65,7 +71,9 @@
       "React Toastify (React Library for showing notification)",
       "Dotenv (Its a library to hide potential credentials from public)",
       "React Helmet Async (it's used for showing the page title in website)"
-    ]
+    ],
+    "gitHubLinkFrontend": "https://github.com/ashikurrahmans/perfumes-app-react",
+    "gitHubLinkBackend": "https://github.com/ashikurrahmans/perfumes-app-react"
   },
   {
     "id": 5,
@@ -82,7 +90,9 @@
       "React Toastify (React Library for showing notification)",
       "Dotenv (Its a library to hide potential credentials from public)",
       "React Helmet Async (it's used for showing the page title in website)"
-    ]
+    ],
+    "gitHubLinkFrontend": "https://github.com/ashikurrahmans/perfumes-app-react",
+    "gitHubLinkBackend": "https://github.com/ashikurrahmans/perfumes-app-react"
   },
   {
     "id": 6,
@@ -99,6 +109,8 @@
       "React Toastify (React Library for showing notification)",
       "Dotenv (Its a library to hide potential credentials from public)",
       "React Helmet Async (it's used for showing the page title in website)"
-    ]
+    ],
+    "gitHubLinkFrontend": "https://github.com/ashikurrahmans/perfumes-app-react",
+    "gitHubLinkBackend": "https://github.com/ashikurrahmans/perfumes-app-react"
   }
 ]
