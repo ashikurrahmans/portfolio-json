@@ -14,7 +14,7 @@
     "id": "2",
     "category": "mongoDb",
     "title": "Why React is best for SPA!",
-    "img": "https://miro.medium.com/max/1400/1*i3hzpSEiEEMTuWIYviYweQ.png",
+    "img": "https://i.ibb.co/WFtcmxg/express.png",
     "description": "Flowbite is an open-source library of UI components based on the utility-first Tailwind CSS framework featuring dark mode support, a Figma design system, and more.",
     "tags": ["nodejs", "javascript", "mongodb"],
     "authorName": "Ashikur Rahman",
@@ -26,7 +26,7 @@
     "id": "3",
     "category": "mongoDb",
     "title": "Why React is best for SPA!",
-    "img": "https://miro.medium.com/max/1400/1*i3hzpSEiEEMTuWIYviYweQ.png",
+    "img": "https://i.ibb.co/T2V1B8j/firebase.jpg",
     "description": "Flowbite is an open-source library of UI components based on the utility-first Tailwind CSS framework featuring dark mode support, a Figma design system, and more.",
     "tags": ["nodejs", "javascript", "mongodb"],
     "authorName": "Ashikur Rahman",
@@ -37,7 +37,7 @@
     "id": "4",
     "category": "mongoDb",
     "title": "Why React is best for SPA!",
-    "img": "https://miro.medium.com/max/1400/1*i3hzpSEiEEMTuWIYviYweQ.png",
+    "img": "https://i.ibb.co/YXTQGB5/nextjs.png",
     "description": "Flowbite is an open-source library of UI components based on the utility-first Tailwind CSS framework featuring dark mode support, a Figma design system, and more.",
     "tags": ["nodejs", "javascript", "mongodb"],
     "authorName": "Ashikur Rahman",
@@ -48,7 +48,7 @@
     "id": "5",
     "category": "mongoDb",
     "title": "Why React is best for SPA!",
-    "img": "https://miro.medium.com/max/1400/1*i3hzpSEiEEMTuWIYviYweQ.png",
+    "img": "https://i.ibb.co/jMtZ897/react.png",
     "description": "Flowbite is an open-source library of UI components based on the utility-first Tailwind CSS framework featuring dark mode support, a Figma design system, and more.",
     "tags": ["nodejs", "javascript", "mongodb"],
     "authorName": "Ashikur Rahman",
@@ -59,22 +59,12 @@
     "id": "6",
     "category": "mongoDb",
     "title": "Why React is best for SPA!",
-    "img": "https://miro.medium.com/max/1400/1*i3hzpSEiEEMTuWIYviYweQ.png",
+    "img": "https://i.ibb.co/Z840Z99/tailwind.jpg",
     "description": "Flowbite is an open-source library of UI components based on the utility-first Tailwind CSS framework featuring dark mode support, a Figma design system, and more.",
     "tags": ["nodejs", "javascript", "mongodb"],
     "authorName": "Ashikur Rahman",
     "authorImage": "https://media-exp1.licdn.com/dms/image/C5103AQH_bxKYrpJCng/profile-displayphoto-shrink_800_800/0/1566404083867?e=1660176000&v=beta&t=d-tgDcFjLcg_kpGgbwDq1dAd4jcdQir8i33rGDkDg2A",
     "authorDesignation": "Frontend Developer"
-  },
-  {
-    "id": "7",
-    "category": "mongoDb",
-    "title": "Why React is best for SPA!",
-    "img": "https://miro.medium.com/max/1400/1*i3hzpSEiEEMTuWIYviYweQ.png",
-    "description": "Flowbite is an open-source library of UI components based on the utility-first Tailwind CSS framework featuring dark mode support, a Figma design system, and more.",
-    "tags": ["nodejs", "javascript", "mongodb"],
-    "authorName": "Ashikur Rahman",
-    "authorImage": "https://media-exp1.licdn.com/dms/image/C5103AQH_bxKYrpJCng/profile-displayphoto-shrink_800_800/0/1566404083867?e=1660176000&v=beta&t=d-tgDcFjLcg_kpGgbwDq1dAd4jcdQir8i33rGDkDg2A",
-    "authorDesignation": "Frontend Developer"
-  }
+  } "authorDesignation": "Frontend Developer"
+  
 ]
