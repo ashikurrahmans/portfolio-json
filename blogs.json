@@ -20,8 +20,7 @@
     "authorName": "Ashikur Rahman",
     "authorImage": "https://media-exp1.licdn.com/dms/image/C5103AQH_bxKYrpJCng/profile-displayphoto-shrink_800_800/0/1566404083867?e=1660176000&v=beta&t=d-tgDcFjLcg_kpGgbwDq1dAd4jcdQir8i33rGDkDg2A",
     "authorDesignation": "Frontend Developer"
-  }
-  ,
+  },
   {
     "id": "3",
     "category": "mongoDb",
@@ -65,6 +64,5 @@
     "authorName": "Ashikur Rahman",
     "authorImage": "https://media-exp1.licdn.com/dms/image/C5103AQH_bxKYrpJCng/profile-displayphoto-shrink_800_800/0/1566404083867?e=1660176000&v=beta&t=d-tgDcFjLcg_kpGgbwDq1dAd4jcdQir8i33rGDkDg2A",
     "authorDesignation": "Frontend Developer"
-  } "authorDesignation": "Frontend Developer"
-  
+  }
 ]
