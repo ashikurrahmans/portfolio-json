@@ -57,7 +57,7 @@
   {
     "id": "6",
     "category": "mongoDb",
-    "title": "Why React is best for SPA!",
+    "title": "Why React is best for SPAS!",
     "img": "https://i.ibb.co/Z840Z99/tailwind.jpg",
     "description": "Flowbite is an open-source library of UI components based on the utility-first Tailwind CSS framework featuring dark mode support, a Figma design system, and more.",
     "tags": ["nodejs", "javascript", "mongodb"],
